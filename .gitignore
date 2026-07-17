@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Chroma database (optional, if generated locally)
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
